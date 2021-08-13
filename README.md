@@ -21,7 +21,7 @@ The other Class is Simple Calculator which extends StatefullWidgets(So it can ch
 
 We are going to use Scaffold widget to implement the basic material design visual layout structure.
 
-First of all the app bar is designed and in app bar title "Calculator is Given".
+First of all the app bar is designed and in app bar title "Calculator" title is Given.
 
 ```dart
 return Scaffold(
